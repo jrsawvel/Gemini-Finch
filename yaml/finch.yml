@@ -1,0 +1,8 @@
+    site_name:                      Gemini Feeds
+    site_description:               Finch Feed Reader
+    home_page:                      gemini://sawv.org/gemfeeds
+    domain_name:                    sawv.org
+    app_name:                       Finch 1.0
+    template_home:                  /home/gemini/finch/GeminiFinch/tmpl
+    default_doc_root:               /home/gemini/docroot/gemfeeds
+    feeds_urls_file:                /home/gemini/finch/GeminiFinch/feeds/feedsurls.txt

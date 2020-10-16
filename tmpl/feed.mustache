@@ -1,0 +1,25 @@
+{{> header}}
+# {{{feedtitle}}}
+{{#feedsubtitleexists}}
+{{{feedsubtitle}}}
+{{/feedsubtitleexists}}
+
+{{#feedupdatedexists}}
+{{{feedupdated}}}
+{{/feedupdatedexists}}
+
+=> {{{feedhomepage}}}   {{{feedhomepage}}}
+=> {{{feedurl}}}    {{{feedurl}}}
+
+{{#itemsloop}}
+{{#itemtitleexists}}
+### {{{itemtitle}}}
+{{/itemtitleexists}}
+{{#itemsummaryexists}}
+{{{itemsummary}}}
+{{/itemsummaryexists}}
+=> {{{itemlink}}}    {{{itemupdated}}}
+
+{{/itemsloop}}
+
+{{> footer}}

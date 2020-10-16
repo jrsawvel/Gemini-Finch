@@ -1,0 +1,9 @@
+gemini://sawv.org/atom.xml
+gemini://sawv.org/rss3.txt
+gemini://gemini.circumlunar.space/users/solderpunk/gemlog/atom.xml
+gemini://acidic.website/musings/atom.xml
+gemini://gemini.circumlunar.space/~shufei/phlog/atom.xml
+gemini://makeworld.gq/gemlog/atom.xml
+gemini://mozz.us/journal/atom.xml
+gemini://otrn.org/atom.xml
+gemini://alexschroeder.ch/do/atom
